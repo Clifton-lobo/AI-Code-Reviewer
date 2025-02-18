@@ -1,0 +1,8 @@
+textarea {
+    outline: none !important;
+    border: none !important;
+    background: transparent !important;
+    color: white !important; /* Ensures text visibility */
+    caret-color: white; /* Keeps cursor visible */
+  }
+  
